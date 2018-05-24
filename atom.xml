@@ -3,7 +3,7 @@
   <title>YY</title>
   
   <subtitle>YYYY</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="/public/atom.xml" rel="self"/>
   
   <link href="http://zhouyueyue.github.io/"/>
   <updated>2018-05-24T08:15:30.000Z</updated>
